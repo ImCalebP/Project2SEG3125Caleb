@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Project2SEG3125Caleb/static/css/main.a455df3e.css",
-    "main.js": "/Project2SEG3125Caleb/static/js/main.fdbbcc3f.js",
+    "main.css": "/Project2SEG3125Caleb/static/css/main.8fa3542f.css",
+    "main.js": "/Project2SEG3125Caleb/static/js/main.d1df113b.js",
     "static/media/banner.png": "/Project2SEG3125Caleb/static/media/banner.9363abafb2d924376655.png",
     "static/media/about.jpg": "/Project2SEG3125Caleb/static/media/about.56e92b20e762df2fa5de.jpg",
     "static/media/pricing.jpg": "/Project2SEG3125Caleb/static/media/pricing.4552ccf3b91e93029513.jpg",
     "static/media/services.jpg": "/Project2SEG3125Caleb/static/media/services.13be7fde05782bd5e2e8.jpg",
     "index.html": "/Project2SEG3125Caleb/index.html",
-    "main.a455df3e.css.map": "/Project2SEG3125Caleb/static/css/main.a455df3e.css.map",
-    "main.fdbbcc3f.js.map": "/Project2SEG3125Caleb/static/js/main.fdbbcc3f.js.map"
+    "main.8fa3542f.css.map": "/Project2SEG3125Caleb/static/css/main.8fa3542f.css.map",
+    "main.d1df113b.js.map": "/Project2SEG3125Caleb/static/js/main.d1df113b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a455df3e.css",
-    "static/js/main.fdbbcc3f.js"
+    "static/css/main.8fa3542f.css",
+    "static/js/main.d1df113b.js"
   ]
 }
